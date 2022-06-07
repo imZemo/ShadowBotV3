@@ -5,7 +5,7 @@ if (!DATABASE._data.chats[m.chat].nsfw && m.isGroup) throw '*[ ⚠️ ] Los coma
 let url = muslos[Math.floor(Math.random() * muslos.length)]
 await conn.sendMessage(m.chat, {
 contentText: '🔥🔥🔥🔥',
-footerText: '©The Shadow Brokers - Bot',
+footerText: '©𝐔𝐧 𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐨𝐭𝐬𝐢𝐭𝐨 𓃵',
 buttons: [
 { buttonId: '.muslos', buttonText: { displayText: 'SIGUIENTE' }, type: 1 }
 ],
