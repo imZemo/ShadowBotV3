@@ -21,10 +21,10 @@ let menu =`
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *Owner del Bot: Destroyer Ofc* 
 ║➤ *Sub - Owner del Bot: Android Smith* 
-║➤ *Moderador del bot* : Yuri
-║➤ *Numero del creador:* *wa.me/51917611323 (No Bot)*
-║➤ *Numero del sub - owner:* *wa.me/51921909260
-║➤ *Numero del Moderador:* *wa.me/51933462225
+║➤ *Moderador del bot:* *Yuri*
+║➤ *Numero del creador:* *wa.me/51917611323*
+║➤ *Numero del sub - owner:* *wa.me/51921909260*
+║➤ *Numero del Moderador:* *wa.me/51933462225*
 ║➤ *Numero del Bot oficial:* *wa.me/+51925566938*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
