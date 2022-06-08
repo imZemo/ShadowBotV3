@@ -4,8 +4,8 @@ let handler = async (m, { conn }) => {
 if (!DATABASE._data.chats[m.chat].nsfw && m.isGroup) throw '*[ ⚠️ ] Los comandos +18 estan desactivados en este grupo, si es administrador de este grupo y desea activarlos escriba #enable nsfw*'
 let url = packmen[Math.floor(Math.random() * packmen.length)]
 await conn.sendMessage(m.chat, {
-contentText: 'Pack xxx By ShadowBot',
-footerText: '©The Shadow Brokers - Bot',
+contentText: '𝐔𝐧 𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐨𝐭𝐬𝐢𝐭𝐨 𓃵',
+footerText: '©𝐔𝐧 𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐨𝐭𝐬𝐢𝐭𝐨 𓃵t',
 buttons: [
 { buttonId: '.pack3', buttonText: { displayText: 'SIGUIENTE' }, type: 1 }
 ],
